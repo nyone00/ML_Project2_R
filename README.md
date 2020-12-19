@@ -2,4 +2,6 @@
 Logistic Regression method
 
 ### goal
-I will predict a classification - survival or deceased using the Titanic Data set from Kaggle. This data set is semi-cleaned version, so i also need to clean the data.  
+In this project we will be working with the UCI adult dataset. We will be attempting to predict if people in the data set belong in a certain class by salary, either making <=50k or >50k per year.
+
+Typically most of your time is spent cleaning data, not running the few lines of code that build your model, this project will try to reflect that by showing different issues that may arise when cleaning data.
